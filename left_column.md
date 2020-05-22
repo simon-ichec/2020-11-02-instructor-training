@@ -1,6 +1,4 @@
-<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
 
----
 
 ### Workshop for present and future instructors
 
