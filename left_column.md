@@ -1,7 +1,3 @@
-
-
-### June 24 (13:00 - 17:00 CEST) and June 25 (9:00 - 13:00 CEST)
-
 <a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
 
 ---
