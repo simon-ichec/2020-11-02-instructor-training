@@ -12,8 +12,23 @@ more reusable, reproducible and better documented code? Please join us!
 
 ### Schedule
 
+#### Prerequisites: homework before the course
 
-#### Wedesday, June 24, 13:00 - 17:00 CEST
+Before the training:
+
+- Complete our pre-workshop survey. Your responses will help us to customize the workshop appropriately.
+
+- Read this short paper [The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf) which provides a brief overview of some key evidence-based results in teaching. This paper is also used by [The Carpentries](https://carpentries.org/) for their Instructor Training workshops.
+
+- Watch at least two of recorded 5-minute **lightning talks** introducing various
+  [CodeRefinery lessons](https://coderefinery.org/lessons/) to get an overview of what we teach in CodeRefinery and also to be
+  able to practice CodeRefinery teaching on day 2 of this course.
+
+- Watch at least two of recorded "this is my training philosophy" which we will
+  discuss in group discussions and which will form the basis for a group
+  exercise.
+
+#### Wednesday, June 24, 13:00 - 17:00 CEST
 
 - 13:00 - 13:15
   [Welcome and general introduction](https://coderefinery.github.io/instructor-training/01-intro/)
