@@ -20,16 +20,18 @@ Before the training:
 
 - Read this short paper [The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf) which provides a brief overview of some key evidence-based results in teaching. This paper is also used by [The Carpentries](https://carpentries.org/) for their Instructor Training workshops.
 
-- Watch at least two of recorded 5-minute **lightning talks** introducing various
+- Watch at least two of recorded ca. 5-minute
+  [lightning overview videos](https://www.youtube.com/playlist?list=PLpLblYHCzJABvt25VY0wNIgbaQfTQaND7)
+  introducing various
   [CodeRefinery lessons](https://coderefinery.org/lessons/)
   to get an overview of what we teach in CodeRefinery and also to be
   able to practice CodeRefinery teaching on day 2 of this course.
-  **videos will be linked here soon**
 
-- Watch at least two of recorded "this is my training philosophy" which we will
+- Watch at least two of recorded
+  ["this is my training philosophy" videos](https://www.youtube.com/playlist?list=PLpLblYHCzJAAHF89P-GCjEXWC8CF-7nhX)
+  which we will
   discuss in group discussions and which will form the basis for a group
   exercise.
-  **videos will be linked here soon**
 
 #### Wednesday, June 24, 13:00 - 17:00 CEST
 
