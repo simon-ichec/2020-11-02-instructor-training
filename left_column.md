@@ -62,7 +62,7 @@ Before the training:
   Break
 
 - 16:00 - 17:00
-  [Lesson design and lesson development](https://coderefinery.github.io/instructor-training/06-lessons/)
+  [Lesson design and lesson development](https://coderefinery.github.io/instructor-training/06-lesson-design/)
   (Radovan)
 
 - End of day 1: Collect information from participants to prepare breakout rooms for day 2
