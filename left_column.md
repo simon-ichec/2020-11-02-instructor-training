@@ -40,7 +40,7 @@ Before the training:
   (Radovan)
 
 - 13:15 - 13:45
-  [Training philosophy](https://coderefinery.github.io/instructor-training/01-intro/#coderefinery-training-philosophies)
+  [Training philosophy](https://coderefinery.github.io/instructor-training/02-teaching-philosophies)
   (ice breaker and group work)
 
 - 13:45 - 14:15
