@@ -36,7 +36,7 @@ Before the training:
 #### Wednesday, June 24, 13:00 - 17:00 CEST
 
 - 13:00 - 13:15
-  [Welcome and general introduction](https://coderefinery.github.io/instructor-training/01-intro/)
+  [Welcome and introduction](https://coderefinery.github.io/instructor-training/01-intro/)
   (Radovan)
 
 - 13:15 - 13:45
@@ -44,7 +44,7 @@ Before the training:
   (ice breaker and group work)
 
 - 13:45 - 14:15
-  [Carpentries approach to teaching](https://coderefinery.github.io/instructor-training/02-teachingstyle/)
+  [Carpentries and CodeRefinery approach to teaching](https://coderefinery.github.io/instructor-training/03-teaching-style/)
   (Anne) - where we focus on differences between more demo-like CodeRefinery where
   attendees take part shaping the course, compared to more type-along type Carpentries.
 
