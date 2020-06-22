@@ -40,7 +40,7 @@ Before the training:
   (Radovan)
 
 - 13:15 - 13:45
-  [Our teaching philosophies](https://coderefinery.github.io/instructor-training/02-teaching-philosophies)
+  [Our teaching philosophies](https://coderefinery.github.io/instructor-training/02-teaching-philosophies/)
   (ice breaker and group work)
 
 - 13:45 - 14:15
@@ -88,5 +88,6 @@ Before the training:
 - 12:40 - 13:00
   Future
   - How to get involved
+  - How to run own workshops
   - Institutional partnerships
   - Certification
