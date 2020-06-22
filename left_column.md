@@ -55,14 +55,14 @@ Before the training:
   Group work/ exercises
 
 - 15:15 - 15:45
-  [Lessons learned from running online and in-person workshops](https://coderefinery.github.io/instructor-training/05-operations/)
+  [Lessons learned from running online and in-person workshops](https://coderefinery.github.io/instructor-training/04-running-workshops/)
   (Richard)
 
 - 15:45 - 16:00
   Break
 
 - 16:00 - 17:00
-  [Lesson design and lesson development](https://coderefinery.github.io/instructor-training/06-lesson-design/)
+  [Lesson design and lesson development](https://coderefinery.github.io/instructor-training/05-lesson-design/)
   (Radovan)
 
 - End of day 1: Collect information from participants to prepare breakout rooms for day 2
