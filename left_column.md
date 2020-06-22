@@ -86,7 +86,8 @@ Before the training:
   Group work: practicing teaching
 
 - 12:40 - 13:00
-  Future
+  [Future](https://coderefinery.github.io/instructor-training/07-future/)
+  (Radovan)
   - How to get involved
   - How to run own workshops
   - Institutional partnerships
