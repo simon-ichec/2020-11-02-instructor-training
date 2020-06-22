@@ -93,7 +93,7 @@ Before the training:
 - 12:40 - 13:00
   [Future](https://coderefinery.github.io/instructor-training/07-future/)
   (Radovan)
+  - Institutional partnerships
   - How to get involved
   - How to run own workshops
-  - Institutional partnerships
   - Certification
