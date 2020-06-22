@@ -35,6 +35,10 @@ Before the training:
 
 #### Wednesday, June 24, 13:00 - 17:00 CEST
 
+- 12:50 - 13:00
+  Please join few minutes early so that we can start on time and get used to the collaborative notes
+  document.
+
 - 13:00 - 13:15
   [Welcome and introduction](https://coderefinery.github.io/instructor-training/01-intro/)
   (Radovan)
