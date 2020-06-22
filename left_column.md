@@ -75,7 +75,7 @@ Before the training:
 #### Thursday, June 25, 9:00 - 13:00 CEST
 
 - 09:00 - 09:10
-  [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/)
+  [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/):
   Exercise overview and instructions in the main room
 
 - 09:10 - 10:40
