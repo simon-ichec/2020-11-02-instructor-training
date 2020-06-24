@@ -11,6 +11,7 @@
 ### Helpers
 
 - Thor Wikfeldt
+- Paula Martinez Lavanchy
 
 
 ### Location
