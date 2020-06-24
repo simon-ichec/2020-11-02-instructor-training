@@ -8,6 +8,11 @@
 - Richard Darst
 
 
+### Helpers
+
+- Thor Wikfeldt
+
+
 ### Location
 
 The workshop will be held online, participant links will be sent to
