@@ -74,23 +74,29 @@ Before the training:
 
 #### Thursday, June 25, 9:00 - 13:00 CEST
 
-- 09:00 - 09:10
-  [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/):
-  Exercise overview and instructions in the main room
+- 09:00 - 09:15
+  Overview over the lessons
 
-- 09:10 - 10:40
+- 09:15 - 09:30
+  [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/):
+  Example 5-minute demo that we discuss together
+
+- 09:30 - 10:50
   Group work: practicing teaching
 
-- 10:40 - 10:50
+- 10:50 - 11:05
   Break
 
-- 10:50 - 11:10
+- 11:05 - 11:20
   Main room discussion
 
-- 11:10 - 12:40
-  Group work: practicing teaching
+- 11:12 - 12:20
+  Group work: second round, focus on only one feedback
 
-- 12:40 - 13:00
+- 12:20 - 12:30
+  Break
+
+- 12:30 - 13:00
   [Future](https://coderefinery.github.io/instructor-training/07-future/)
   (Radovan)
   - Institutional partnerships
