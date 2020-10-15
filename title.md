@@ -1,7 +1,7 @@
-# CodeRefinery instructor training, June 24-25, 2020
+# CodeRefinery instructor training for HPC carpentry HPC Carpentry, November 02-04, 2020
 
-### In collaboration with TU Delft
+### In collaboration with 
 
-### June 24 (13:00 - 17:00 CEST) and June 25 (9:00 - 13:00 CEST)
+### Nov 02 (13:00 - 17:00 CEST), Nov 03 (13:00 - 17:00 CEST), Nov 04 (13:00 - 17:00 CEST)
 
 ---
