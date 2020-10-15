@@ -18,7 +18,10 @@ Before the training:
 
 - Complete our pre-workshop survey. Your responses will help us to customize the workshop appropriately.
 
-- Read this short paper [The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf) which provides a brief overview of some key evidence-based results in teaching. This paper is also used by [The Carpentries](https://carpentries.org/) for their Instructor Training workshops.
+- Read this short paper 
+  [The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf) 
+  which provides a brief overview of some key evidence-based results in teaching.  
+  This paper is also used by [The Carpentries](https://carpentries.org/) for their Instructor Training workshops.
 
 - Watch at least two of recorded ca. 5-minute
   [lightning overview videos](https://www.youtube.com/playlist?list=PLpLblYHCzJABvt25VY0wNIgbaQfTQaND7)
