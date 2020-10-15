@@ -6,12 +6,13 @@
 - Radovan Bast
 - Anne Fouilloux
 - Richard Darst
+- Sabry Razick
 
 
 ### Helpers
 
-- Thor Wikfeldt
-- Paula Martinez Lavanchy
+- 
+- 
 
 
 ### Location
