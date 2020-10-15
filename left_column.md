@@ -36,7 +36,7 @@ Before the training:
   discuss in group discussions and which will form the basis for a group
   exercise.
 
-#### Wednesday, June 24, 13:00 - 17:00 CEST
+#### Monday, Nov 02, 13:00 - 17:00 CEST
 
 - 12:50 - 13:00
   Please join few minutes early so that we can start on time and get used to the collaborative notes
@@ -75,34 +75,36 @@ Before the training:
 - End of day 1: Collect information from participants to prepare breakout rooms for day 2
 
 
-#### Thursday, June 25, 9:00 - 13:00 CEST
+#### Tuesday, Nov 03, 13:00 - 17:00 CEST
 
-- 09:00 - 09:15
+- 13:00 - 13:15
   Overview over the lessons
 
-- 09:15 - 09:30
+- 13:15 - 13:30
   [Practicing teaching and feedback](https://coderefinery.github.io/instructor-training/06-teaching/):
   Example 5-minute demo that we discuss together
 
-- 09:30 - 10:50
+- 13:30 - 13:50
   Group work: practicing teaching
 
-- 10:50 - 11:05
+- 13:50 - 14:05
   Break
 
-- 11:05 - 11:20
+- 14:05 - 14:20
   Main room discussion
 
-- 11:12 - 12:20
+- 14:12 - 15:20
   Group work: second round, focus on only one feedback
 
-- 12:20 - 12:30
+- 15:20 - 16:30
   Break
 
-- 12:30 - 13:00
-  [Future](https://coderefinery.github.io/instructor-training/07-future/)
-  (Radovan)
+- 16:30 - 17:00
+  - Preapre for day 3
   - Institutional partnerships
   - How to get involved
   - How to run own workshops
   - Certification
+
+#### Wednesday, Nov 04, 13:00 - 17:00 CEST
+[Introduction to High-Performance Computing](https://hpc-carpentry.github.io/hpc-intro/)
