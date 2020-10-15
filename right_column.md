@@ -22,9 +22,7 @@ registered participants.
 
 ### Price
 
-Free of charge, funded by the [Nordic e-Infrastructure
-Collaboration](https://neic.no/).
-
+Free of charge for participants, funded by 
 
 ### Contact
 
