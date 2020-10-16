@@ -93,11 +93,13 @@ Before the training:
   Break
 
 - 16:30 - 17:00
-  - Preapre for day 3
+  - Prepare for day 3
   - Institutional partnerships
   - How to get involved
   - How to run own workshops
   - Certification
 
-#### Wednesday, Nov 04, 13:00 - 17:00 CEST
-[Introduction to High-Performance Computing](https://hpc-carpentry.github.io/hpc-intro/)
+#### Monday, Nov 09, 13:00 - 17:00 CEST
+Final program TBC but will include an overview of
+- the HPC Carpentry lesson [Introduction to High-Performance Computing](https://hpc-carpentry.github.io/hpc-intro/)
+- the FocusCoE/E-CAM lesson on [Running LAMMPS on HPC systems](https://fzj-jsc.github.io/tuning_lammps/)
