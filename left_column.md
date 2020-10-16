@@ -29,7 +29,7 @@ Before the training:
   discuss in group discussions and which will form the basis for a group
   exercise.
 
-#### Monday, Nov 02, 13:00 - 17:00 CEST
+#### Monday, Nov 02, 13:00 - 17:00 CET
 
 - 12:50 - 13:00
   Please join few minutes early so that we can start on time and get used to the collaborative notes
@@ -68,7 +68,7 @@ Before the training:
 - End of day 1: Collect information from participants to prepare breakout rooms for day 2
 
 
-#### Tuesday, Nov 03, 13:00 - 17:00 CEST
+#### Tuesday, Nov 03, 13:00 - 17:00 CET
 
 - 13:00 - 13:15
   Overview over the lessons
@@ -93,11 +93,13 @@ Before the training:
   Break
 
 - 16:30 - 17:00
-  - Preapre for day 3
+  - Prepare for day 3
   - Institutional partnerships
   - How to get involved
   - How to run own workshops
   - Certification
 
-#### Wednesday, Nov 04, 13:00 - 17:00 CEST
-[Introduction to High-Performance Computing](https://hpc-carpentry.github.io/hpc-intro/)
+#### Monday, Nov 09, 13:00 - 17:00 CET
+Final program TBC but will include an overview of
+- the HPC Carpentry lesson [Introduction to High-Performance Computing](https://hpc-carpentry.github.io/hpc-intro/)
+- the FocusCoE/E-CAM lesson on [Running LAMMPS on HPC systems](https://fzj-jsc.github.io/tuning_lammps/)
