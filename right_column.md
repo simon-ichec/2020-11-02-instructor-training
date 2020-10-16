@@ -4,8 +4,8 @@
 ### Instructors
 
 - Radovan Bast
-- Anne Fouilloux
 - Richard Darst
+- Anne Fouilloux
 - Sabry Razick
 
 
