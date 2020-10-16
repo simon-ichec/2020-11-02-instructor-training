@@ -25,7 +25,7 @@ registered participants.
 Free of charge for participants.
 The workshop is funded by [FocusCoE](https://www.hpccoe.eu/index.php/about/) and
 
-![FocusCoE]({{ site.baseurl }}/img/focuscoe.png
+![FocusCoE]({{ site.baseurl }}/img/focuscoe.png)
 
 
 priority is given to invited participants.
